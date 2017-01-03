@@ -12,6 +12,7 @@ to walk through GIT
 
 Here we are testing git workflow by :
 
+
 - Modifying existing files
 - Creating new files
 - Commiting to a branch
@@ -23,5 +24,9 @@ Here we are testing git workflow by :
 - Stashing changes locally
 - Deleting branches safely
 - Reverting the commits and merge back
+ *
+ * TestChanges Here
+ *
+ * Now am changing commit again before push
  *
  */
