@@ -29,4 +29,6 @@ Here we are testing git workflow by :
  *
  * Now am changing commit again before push
  *
+ * Here this was 2 commits less than head.. let see how it reacts on commit and push
+ *
  */
