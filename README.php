@@ -29,6 +29,8 @@ Here we are testing git workflow by :
  *
  * Now am changing commit again before push
  *
- * Here this was 2 commits less than head.. let see how it reacts on commit and push
+ * Now changing in new branch hotfix/CR143
+ *
+ * This was the change requested with the correct resolution. please approve this time
  *
  */
