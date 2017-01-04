@@ -44,6 +44,4 @@ Here we are testing git workflow by :
  * Added comit 2 ahead of master branch
  *
  * removed the last commit and made change in other file . next ths will be reverted
- *
- * missed one file to commit
  */
