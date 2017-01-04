@@ -36,4 +36,10 @@ Here we are testing git workflow by :
  * After resolving conflicts recommiting again.. check the tree now..
  *
  * This is for checking why orgin/master is on last commit
+ *
+ * Just created treestruc branch to analyze the tree
+ *
+ * Added commit to treestruc
+ *
+ * Added comit 2 ahead of master branch
  */
